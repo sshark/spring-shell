@@ -1,6 +1,8 @@
 #Spring Shell
 This is a basic shell project configured with Spring libraries among with JUnit testing framework and other libraries.
 
+Remember to reset the Git repository to the actual repository once it is checked out.
+
 ##License
 Copyright 2013 Lim, Teck Hooi
 
