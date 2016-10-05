@@ -1,1 +1,0 @@
-This file is created to preserve the src/main/java directory structure. Delete this file once real class is created in this directory.
